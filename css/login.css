@@ -1,17 +1,20 @@
 .login-form-container {
     justify-content: center;
-    flex: 0.85;
 }
 
+/* card do login*/
 .container-login {
     display: flex;
     border-radius: 15px;
-    background-color: #4018758d;
+    background-color: #46d341d9;
     height: 70vh;
     width: 28vw;
     margin: auto;
     align-items: center;
     justify-content: center;
+    border: #2e8b29d9;
+    border-style: solid;
+    border-width: 3px;
 
     color: white;
     font-weight: bold;
@@ -19,7 +22,7 @@
 
 .login-btn {
     margin-top: 50px;
-    background-color: #6A26AC;
+    background-color: #1c1fe3;
     color: white;
     font-weight: bold;
 }
@@ -27,7 +30,7 @@
 .login-btn:hover {
     margin-top: 50px;
     background-color: #ffffff;
-    color: #6A26AC;
+    color: #1c1fe3;
     font-weight: bold;
 }
 

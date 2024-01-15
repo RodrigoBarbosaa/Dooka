@@ -15,15 +15,17 @@
     font-weight: bold;
 }
 
+/* Botão da tela de cadastro */
 .cadastro-button {
-    background-color: #6A26AC;
+    background-color: #1c1fe3;
     color: white;
     font-weight: bold;
 }
-
+ 
+/* Botão da tela de cadastro */
 .cadastro-button:hover {
-    background-color: #ffffff;
-    color: #6A26AC;
+    background-color: white;
+    color: #1c1fe3;
     font-weight: bold;
 }
 

@@ -1,12 +1,6 @@
+/* background da tela de login*/
 .movies-background {
-    background-image: url("../assets/images/moviesBackground.png");
-    width: 62vw;
-    height: 100vh;
-}
-
-.gradient-background {
-    background-image: url('../assets/images/bg-gradient.jpg');
-    background-size: cover;
+    background-color: white;
 }
 
 .header {
